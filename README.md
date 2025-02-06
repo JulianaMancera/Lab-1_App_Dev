@@ -1,4 +1,4 @@
-# Variable_Challenge
+# Lab-1_App_Dev
 
 ## Instructions
 &nbsp; &nbsp; &nbsp; &nbsp; You will have some HTML in the starter code for this lesson. It contains a blog post with a title, author, and
